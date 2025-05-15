@@ -95,7 +95,7 @@ const Right = styled.div`
 `;
 
 const Works = () => {
-  const [work, setWork] = useState("Web Design");
+  const [work, setWork] = useState("Development");
   return (
     <Section>
       <Container>
